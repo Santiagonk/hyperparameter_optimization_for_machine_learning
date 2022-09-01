@@ -1,5 +1,4 @@
 # hyperparameter_optimization_for_machine_learning
-<<<<<<< HEAD
 
 Course about Hyperparameter optimization
   
@@ -60,6 +59,3 @@ Please read [install.md](install.md) for details on how to set up this project.
 
 ---
 Project based on the [cookiecutter conda data science project template](https://github.com/jvelezmagic/cookiecutter-conda-data-science).
-=======
-Course About hyperparameter_optimization_for_machine_learning
->>>>>>> 389b156608617c76ad57e6071a8cae84d462d898
